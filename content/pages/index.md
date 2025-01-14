@@ -17,7 +17,7 @@ sections:
       Figma and Spline, I create user-centric designs that drive growth and
       engagement, helping businesses achieve their digital goals.
     actions:
-      - label: Get started
+      - label: Live Chat On WhatsApp
         altText: ''
         url: /
         showIcon: false
