@@ -28,7 +28,7 @@ sections:
         type: Button
       - label: Recent Designs
         altText: ''
-        url: /
+        url: 'https://www.behance.net/uxaminul'
         showIcon: true
         icon: arrowRight
         iconPosition: right
