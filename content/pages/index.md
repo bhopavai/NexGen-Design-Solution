@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: SaaS Design Expert
+      label: SaaS Solutions Specialist
       color: text-primary
       type: Badge
     elementId: ''
