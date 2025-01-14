@@ -10,14 +10,10 @@ sections:
     subtitle: >-
       Transforming ideas into intuitive digital solutions with precision and
       creativity.
-    text: >+
-
-      NexGen Design Solution offers the best-awarded SaaS product design service
-      in Bangladesh. We craft intuitive, user-focused designs using Figma and
-      Spline to drive growth and engagement for your business.
-
-
-
+    text: >
+      At **NexGen Design Solution** offers the best-awarded SaaS product design
+      service in Bangladesh. We craft intuitive, user-focused designs using
+      Figma and Spline to drive growth and engagement for your business.
     actions:
       - label: Get started
         altText: ''
