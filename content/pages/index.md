@@ -30,7 +30,7 @@ sections:
         altText: ''
         url: 'https://www.behance.net/uxaminul'
         showIcon: true
-        icon: chevronRight
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
