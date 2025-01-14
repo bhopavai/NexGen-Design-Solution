@@ -39,7 +39,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/Home 01.svg
+      url: /images/Frame 3207.svg
     badge:
       label: SaaS Solutions Specialist
       color: text-primary
