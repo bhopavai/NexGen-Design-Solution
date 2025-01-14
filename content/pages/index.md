@@ -19,7 +19,7 @@ sections:
     actions:
       - label: Live Chat On WhatsApp
         altText: ''
-        url: /
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
