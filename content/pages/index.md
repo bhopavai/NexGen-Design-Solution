@@ -26,7 +26,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: 'Recent '
+      - label: Recent Designs
         altText: ''
         url: /
         showIcon: true
