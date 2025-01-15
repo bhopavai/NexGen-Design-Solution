@@ -244,7 +244,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: 'https://vimeo.com/821713786'
+      url: 'https://vimeo.com/604707672'
       controls: false
       aspectRatio: '16:9'
       styles:
