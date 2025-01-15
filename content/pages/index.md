@@ -528,7 +528,7 @@ sections:
     items:
       - title: User-Centric Approach
         tagline: Designed for Users
-        subtitle: ''
+        subtitle: Seamless and Intuitive Experiences
         text: >
           We craft designs that focus on user needs, delivering interfaces that
           are simple, functional, and enjoyable.
