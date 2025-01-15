@@ -586,6 +586,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          url: /images/Painter-3.svg
         colors: bg-light-fg-dark
         styles:
           self:
