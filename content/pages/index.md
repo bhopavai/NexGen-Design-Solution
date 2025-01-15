@@ -348,6 +348,7 @@ sections:
     media:
       altText: Fun feature preview
       type: ImageBlock
+      url: /images/uxaminul.svg
     badge:
       label: Meet the Founder
       color: text-primary
