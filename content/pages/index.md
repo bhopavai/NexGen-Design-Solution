@@ -526,7 +526,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: User-Centric Approach
         tagline: Designed for Users
         subtitle: ''
         text: >
