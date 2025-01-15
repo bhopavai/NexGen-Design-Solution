@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: User-Centric Designs
-        subtitle: Numbers Done
+        subtitle: Designs That Delight Users
         text: >
           We craft intuitive and engaging **SaaS product** **designs** tailored
           to meet your business needs and enhance user satisfaction.
