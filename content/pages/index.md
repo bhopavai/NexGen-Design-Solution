@@ -289,10 +289,10 @@ sections:
       type: TitleBlock
     subtitle: 'From Concept to Creation: Our Proven SaaS Design Process'
     text: >
-      We start with research to understand your business, goals, and user needs.
+      We start with research to understand your business goals and user needs.
       Then, we create wireframes and prototypes, followed by intuitive UI/UX
       design using Figma and Spline. After user testing, we refine and deliver a
-      final design, ready for seamless SaaS integration.
+      final design, ready for seamless **SaaS** integration.
     actions: []
     media:
       title: Title of the video
