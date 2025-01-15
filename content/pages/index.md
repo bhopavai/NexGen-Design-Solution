@@ -533,7 +533,6 @@ sections:
           We craft designs that focus on user needs, delivering interfaces that
           are simple, functional, and enjoyable.
         image:
-          url: /images/abstract-feature1.svg
           altText: Placeholder Image
           styles:
             self:
