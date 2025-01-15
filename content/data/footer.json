@@ -74,6 +74,13 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "Twitter link",
+            "url": "https://x.com/uxaminul",
+            "icon": "twitter",
+            "elementId": ""
+        },
+        {
             "altText": "Email link",
             "url": "info@uxaminul.com",
             "icon": "mail",
