@@ -558,7 +558,7 @@ sections:
           business for long-term success.
         image:
           url: /images/people-objects.svg
-          altText: Placeholder image
+          altText: uxaminul.com
           styles:
             self:
               borderRadius: x-large
