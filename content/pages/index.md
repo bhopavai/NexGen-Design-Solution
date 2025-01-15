@@ -118,10 +118,10 @@ sections:
         type: FeaturedItem
       - title: Reliable & Award-Winning
         subtitle: Recognized for Excellence
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Recognized for **the best SaaS design services in Bangladesh**, we
+          ensure quality, collaboration, and on-time delivery.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
