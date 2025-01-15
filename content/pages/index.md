@@ -299,7 +299,7 @@ sections:
       url: 'https://vimeo.com/456147878'
       autoplay: true
       loop: true
-      muted: false
+      muted: true
       controls: false
       aspectRatio: '16:9'
       styles:
