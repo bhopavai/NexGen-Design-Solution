@@ -13,6 +13,7 @@ featuredImage:
     self:
       borderRadius: large
   type: ImageBlock
+  url: /images/Digital Media.svg
 bottomSections:
   - title: Divider
     colors: bg-light-fg-dark
