@@ -326,7 +326,7 @@ sections:
       text: Aminul Islam – CEO & Founder of NexGen Design Solution
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
 
       At **NexGen Design Solution**, we focus on creating user-friendly and
