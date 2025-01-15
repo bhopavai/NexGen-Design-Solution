@@ -86,6 +86,8 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+author: >-
+  content/data/ceo-and-founder-of-nexgen-design-solution.-a-passionate-ui/ux-designer-specializing-in-saas-product-design-crafting-intuitive-and-engaging-digital-experiences-with-expertise-in-figma-and-spline..json
 ---
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
