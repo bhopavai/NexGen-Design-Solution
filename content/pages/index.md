@@ -265,7 +265,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Discover the Power of SaaS Design
       color: text-primary
       styles:
         self:
