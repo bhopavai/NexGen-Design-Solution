@@ -66,10 +66,10 @@ sections:
       - type: FeaturedItem
         title: User-Centric Designs
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          We craft intuitive and engaging **SaaS product** designs tailored to
+          meet your business needs and enhance user satisfaction.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
