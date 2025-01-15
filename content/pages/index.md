@@ -245,7 +245,7 @@ sections:
       user-focused strategies, and cutting-edge tools like Figma and Spline in
       action.
     media:
-      title: Title of the video
+      title: SaaS Website UI/UX Design
       url: 'https://vimeo.com/604707672'
       controls: false
       aspectRatio: '16:9'
