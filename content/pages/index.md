@@ -295,7 +295,7 @@ sections:
       final design, ready for seamless **SaaS** integration.
     actions: []
     media:
-      title: Title of the video
+      title: SaaS Website UI/UX Design
       url: 'https://vimeo.com/456147878'
       autoplay: true
       loop: true
