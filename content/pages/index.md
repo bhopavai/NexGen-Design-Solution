@@ -140,7 +140,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Chat On WhatApp
         altText: ''
         url: 'https://wa.link/xzsc32'
         showIcon: false
