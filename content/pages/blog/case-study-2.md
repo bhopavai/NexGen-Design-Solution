@@ -1,5 +1,5 @@
 ---
-title: Hsoting
+title: Hosting Provider Companies SaaS Website & Dashboard UI/UX Design
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
