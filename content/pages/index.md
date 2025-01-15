@@ -67,9 +67,8 @@ sections:
         title: User-Centric Designs
         subtitle: Numbers Done
         text: >
-
-          We craft intuitive and engaging **SaaS product** designs tailored to
-          meet your business needs and enhance user satisfaction.
+          We craft intuitive and engaging **SaaS product** **designs** tailored
+          to meet your business needs and enhance user satisfaction.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
