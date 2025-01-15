@@ -586,6 +586,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          url: /images/3D digital interface.svg
         colors: bg-light-fg-dark
         styles:
           self:
