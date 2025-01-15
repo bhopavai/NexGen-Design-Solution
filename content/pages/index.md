@@ -239,11 +239,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Watch our video to see how we craft intuitive **SaaS product** designs
+      that drive engagement and business success. Explore our proven process,
+      user-focused strategies, and cutting-edge tools like Figma and Spline in
+      action.
     media:
       title: Title of the video
       url: 'https://vimeo.com/604707672'
