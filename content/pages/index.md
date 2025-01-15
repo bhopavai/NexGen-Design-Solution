@@ -337,7 +337,7 @@ sections:
 
     actions:
       - label: Get started
-        url: /
+        url: 'https://wa.link/xzsc32'
         icon: arrowRight
         iconPosition: right
         style: secondary
