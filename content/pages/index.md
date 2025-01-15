@@ -343,7 +343,7 @@ sections:
         style: secondary
         type: Button
       - label: See Tutorials
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
