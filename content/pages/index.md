@@ -524,7 +524,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Empowering Your Business with User-Centered Design
     items:
       - title: User-Centric Approach
         tagline: Designed for Users
