@@ -323,7 +323,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Aminul Islam – CEO & Founder of NexGen Design Solution
+      text: CEO & Founder of NexGen Design Solution
       color: text-dark
       type: TitleBlock
     subtitle: ''
