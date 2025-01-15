@@ -230,7 +230,9 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: >-
+        How NexGen Design Solution Transforms Ideas into Seamless SaaS
+        Experiences
       color: text-dark
       styles:
         self:
