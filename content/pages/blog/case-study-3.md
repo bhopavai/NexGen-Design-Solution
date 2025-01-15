@@ -1,7 +1,7 @@
 ---
 title: Construction Company's Website UI UX Design
 slug: case-study-3
-date: '2023-12-18'
+date: '2023-12-16'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
