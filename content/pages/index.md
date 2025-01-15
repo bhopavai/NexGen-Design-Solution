@@ -323,7 +323,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Crafting Scalable SaaS Product Designs for Business Growth
+      text: Aminul Islam – CEO & Founder of NexGen Design Solution
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
