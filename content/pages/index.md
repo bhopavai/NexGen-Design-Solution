@@ -617,9 +617,9 @@ sections:
       type: TitleBlock
     subtitle: We’re Here to Bring Your Ideas to Life
     text: >
-      Have a project in mind or need help with your SaaS product design? Reach
-      out to us today! Our team is ready to collaborate and create impactful
-      designs tailored to your needs.
+      Have a project in mind or need help with your SaaS product or UI/UX
+      design? Reach out to us today! Our team is ready to collaborate and create
+      impactful designs tailored to your needs.
     media:
       fields:
         - name: name
