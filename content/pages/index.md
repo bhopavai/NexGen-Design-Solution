@@ -346,7 +346,7 @@ sections:
         style: primary
         type: Link
     media:
-      altText: Fun feature preview
+      altText: uxaminul.com
       type: ImageBlock
       url: /images/uxaminul.svg
     badge:
