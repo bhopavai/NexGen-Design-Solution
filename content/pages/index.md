@@ -288,11 +288,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: 'From Concept to Creation: Our Proven SaaS Design Process'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We start with research to understand your business, goals, and user needs.
+      Then, we create wireframes and prototypes, followed by intuitive UI/UX
+      design using Figma and Spline. After user testing, we refine and deliver a
+      final design, ready for seamless SaaS integration.
     actions: []
     media:
       title: Title of the video
