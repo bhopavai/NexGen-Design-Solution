@@ -576,7 +576,7 @@ sections:
         type: FeaturedItem
       - title: Cutting-Edge Tools
         tagline: Powered by Innovation
-        subtitle: This is the item subtitle
+        subtitle: Advanced Technology for Better Design
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
