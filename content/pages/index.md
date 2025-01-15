@@ -208,7 +208,7 @@ sections:
     showDate: true
     showAuthor: true
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
