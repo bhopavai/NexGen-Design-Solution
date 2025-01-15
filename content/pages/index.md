@@ -553,8 +553,9 @@ sections:
       - title: Scalable Solutions
         tagline: Built to Grow
         subtitle: Adapting to Your Business Needs
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Our designs are flexible and scalable, ready to evolve with your
+          business for long-term success.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
