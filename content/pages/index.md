@@ -576,7 +576,7 @@ sections:
         type: FeaturedItem
       - title: Cutting-Edge Tools
         tagline: Powered by Innovation
-        subtitle: Advanced Technology for Better Design
+        subtitle: ''
         text: >
           Using tools like Figma and Spline, we deliver modern, high-quality
           designs for impactful results.
