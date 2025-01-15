@@ -1,5 +1,5 @@
 ---
-title: Video Editing Agencies Web - UI/UX Case Study
+title: Video Editing Agencies Web UI/UX Design Case Study
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
