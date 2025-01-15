@@ -552,7 +552,7 @@ sections:
         type: FeaturedItem
       - title: Scalable Solutions
         tagline: Built to Grow
-        subtitle: This is the item subtitle
+        subtitle: Adapting to Your Business Needs
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
