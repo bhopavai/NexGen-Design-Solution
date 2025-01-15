@@ -574,7 +574,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Cutting-Edge Tools
         tagline: Powered by Innovation
         subtitle: This is the item subtitle
         text: >
