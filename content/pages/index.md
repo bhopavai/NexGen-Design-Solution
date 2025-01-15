@@ -71,7 +71,7 @@ sections:
           to meet your business needs and enhance user satisfaction.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
