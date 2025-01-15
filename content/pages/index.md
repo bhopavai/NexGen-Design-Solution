@@ -348,7 +348,6 @@ sections:
     media:
       altText: Fun feature preview
       type: ImageBlock
-      url: /images/PicsArt_02-07-03.35.38 1.svg
     badge:
       label: Meet the Founder
       color: text-primary
