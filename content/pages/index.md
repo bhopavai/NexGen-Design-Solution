@@ -296,8 +296,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: >-
-        https://vimeo.com/833924104?autoplay=1&muted=1&stream_id=Y2xpcHN8ODI0MDU4MTR8aWQ6ZGVzY3x7InJlbW92ZV92b2RfdGl0bGVzIjpmYWxzZX0%3D
+      url: 'https://vimeo.com/456147878'
       autoplay: true
       loop: true
       muted: true
