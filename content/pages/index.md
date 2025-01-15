@@ -117,7 +117,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Reliable & Award-Winning
-        subtitle: Faster
+        subtitle: Recognized for Excellence
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
