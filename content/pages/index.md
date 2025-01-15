@@ -296,7 +296,7 @@ sections:
     actions: []
     media:
       title: SaaS Website UI/UX Design
-      url: 'https://vimeo.com/456147878'
+      url: ''
       autoplay: true
       loop: true
       muted: true
