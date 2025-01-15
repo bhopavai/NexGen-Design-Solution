@@ -529,8 +529,9 @@ sections:
       - title: Feature Item One
         tagline: Designed for Users
         subtitle: User-Centric Approach
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We craft designs that focus on user needs, delivering interfaces that
+          are simple, functional, and enjoyable.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
