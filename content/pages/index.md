@@ -7,9 +7,7 @@ sections:
       text: 'I solve user problems through design, backed by strong UX skills'
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Transforming ideas into intuitive digital solutions with precision and
-      creativity.
+    subtitle: ''
     text: >
 
       As the CEO and Founder of **NexGen Design Solution**, I provide the
