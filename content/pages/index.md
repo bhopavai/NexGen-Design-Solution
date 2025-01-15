@@ -281,7 +281,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Why Choose Our SaaS Design Solutions?
+      text: Our SaaS Design Work Process
       color: text-dark
       styles:
         self:
