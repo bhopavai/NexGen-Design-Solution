@@ -349,7 +349,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: About NexGen Design Solution
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
