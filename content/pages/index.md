@@ -323,7 +323,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Crafting Scalable SaaS Product Designs for Business Growth
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
