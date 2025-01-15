@@ -578,8 +578,8 @@ sections:
         tagline: Powered by Innovation
         subtitle: Advanced Technology for Better Design
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Using tools like Figma and Spline, we deliver modern, high-quality
+          designs for impactful results.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
