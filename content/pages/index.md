@@ -327,13 +327,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
+    text: >+
+      **Aminul Islam** is a dedicated UI/UX designer and the visionary behind
+      NexGen Design Solution. With expertise in Figma and Spline, Aminul
+      specializes in crafting intuitive and scalable SaaS product designs that
+      solve real-world problems. Passionate about user-centered design, he is
+      committed to helping businesses achieve success through innovative digital
+      experiences.
 
-      At **NexGen Design Solution**, we focus on creating user-friendly and
-      scalable SaaS product designs that drive engagement and support your
-      business growth. With expertise in tools like Figma and Spline, we turn
-      your ideas into intuitive, impactful solutions tailored to meet your goals
-      and enhance user satisfaction.
     actions:
       - label: Get started
         url: /
