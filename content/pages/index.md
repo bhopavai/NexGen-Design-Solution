@@ -538,7 +538,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
-          url: /images/people-objects.svg
+          url: /images/abstract-feature1.svg
         colors: bg-light-fg-dark
         styles:
           self:
