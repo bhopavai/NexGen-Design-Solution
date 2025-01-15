@@ -533,7 +533,7 @@ sections:
           We craft designs that focus on user needs, delivering interfaces that
           are simple, functional, and enjoyable.
         image:
-          altText: Placeholder Image
+          altText: uxaminul.com
           styles:
             self:
               borderRadius: x-large
