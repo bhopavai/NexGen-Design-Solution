@@ -581,7 +581,6 @@ sections:
           Using tools like Figma and Spline, we deliver modern, high-quality
           designs for impactful results.
         image:
-          url: /images/abstract-feature1.svg
           altText: Placeholder image
           styles:
             self:
