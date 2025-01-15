@@ -328,8 +328,12 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+
+      At **NexGen Design Solution**, we focus on creating user-friendly and
+      scalable SaaS product designs that drive engagement and support your
+      business growth. With expertise in tools like Figma and Spline, we turn
+      your ideas into intuitive, impactful solutions tailored to meet your goals
+      and enhance user satisfaction.
     actions:
       - label: Get started
         url: /
