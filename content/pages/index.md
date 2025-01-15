@@ -550,7 +550,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Scalable Solutions
         tagline: Built to Grow
         subtitle: This is the item subtitle
         text: |
