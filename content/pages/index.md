@@ -346,7 +346,6 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/PicsArt_02-07-03.35.38.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
