@@ -612,7 +612,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Get in Touch with NexGen Design Solution
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
