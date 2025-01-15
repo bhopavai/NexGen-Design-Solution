@@ -586,6 +586,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          url: /images/Group 1000003067.svg
         colors: bg-light-fg-dark
         styles:
           self:
