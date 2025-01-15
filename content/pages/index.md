@@ -538,6 +538,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
+          url: /images/Man Pose - 03.svg
         colors: bg-light-fg-dark
         styles:
           self:
