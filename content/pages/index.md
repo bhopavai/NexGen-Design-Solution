@@ -518,7 +518,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Our Core Features
       color: text-primary
       styles:
         self:
