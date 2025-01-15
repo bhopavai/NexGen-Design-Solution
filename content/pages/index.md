@@ -528,7 +528,7 @@ sections:
     items:
       - title: Feature Item One
         tagline: Designed for Users
-        subtitle: This is the item subtitle
+        subtitle: User-Centric Approach
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
