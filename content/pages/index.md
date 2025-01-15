@@ -342,7 +342,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Portfolio
         url: 'https://www.behance.net/uxaminul'
         showIcon: true
         icon: arrowRight
