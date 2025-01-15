@@ -246,7 +246,7 @@ sections:
       action.
     media:
       title: SaaS Website UI/UX Design
-      url: 'https://vimeo.com/604707672'
+      url: 'https://vimeo.com/456147878?signup=true'
       controls: false
       aspectRatio: '16:9'
       styles:
