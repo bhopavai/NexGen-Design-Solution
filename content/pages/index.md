@@ -528,7 +528,7 @@ sections:
     items:
       - title: Feature Item One
         tagline: Designed for Users
-        subtitle: User-Centric Approach
+        subtitle: ''
         text: >
           We craft designs that focus on user needs, delivering interfaces that
           are simple, functional, and enjoyable.
