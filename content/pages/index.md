@@ -557,7 +557,7 @@ sections:
           Our designs are flexible and scalable, ready to evolve with your
           business for long-term success.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/people-objects.svg
           altText: Placeholder image
           styles:
             self:
