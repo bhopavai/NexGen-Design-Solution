@@ -279,49 +279,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Our SaaS Design Work Process
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: 'From Concept to Creation: Our Proven SaaS Design Process'
-    text: >
-      We start with research to understand your business goals and user needs.
-      Then, we create wireframes and prototypes, followed by intuitive UI/UX
-      design using Figma and Spline. After user testing, we refine and deliver a
-      final design, ready for seamless **SaaS** integration.
-    actions: []
-    media:
-      title: SaaS Website UI/UX Design
-      url: 'https://vimeo.com/456147878?signup=true'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Aminul Islam – CEO & Founder of NexGen Design Solution
       color: text-dark
