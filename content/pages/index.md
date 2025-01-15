@@ -581,7 +581,7 @@ sections:
           Using tools like Figma and Spline, we deliver modern, high-quality
           designs for impactful results.
         image:
-          altText: Placeholder image
+          altText: uxaminul.com
           styles:
             self:
               borderRadius: x-large
