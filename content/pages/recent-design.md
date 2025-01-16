@@ -1,6 +1,6 @@
 ---
 title: 'Portfolio '
-slug: pricing
+slug: Recent Design
 sections:
   - type: FeaturedItemsSection
     title:
