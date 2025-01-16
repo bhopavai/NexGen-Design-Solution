@@ -162,7 +162,7 @@ sections:
               - pt-8
               - pl-7
               - pb-8
-              - pr-8
+              - pr-7
             textAlign: left
             borderRadius: x-small
             flexDirection: col
