@@ -161,7 +161,7 @@ sections:
             padding:
               - pt-6
               - pl-8
-              - pb-6
+              - pb-9
               - pr-8
             textAlign: left
             borderRadius: x-small
