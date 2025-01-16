@@ -102,5 +102,4 @@ Thank you for joining me on this journey!
 📸 Instagram: <https://lnkd.in/gVyAd_SH>
 🐦 Twitter: <https://lnkd.in/gf7pC6wu>
 
-
 ➡️ [View Full Case Study](https://www.behance.net/gallery/215628793/Video-Editing-Agencys-Landing-Pages-UI-UX-Design)
