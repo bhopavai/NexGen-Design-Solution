@@ -169,6 +169,7 @@ sections:
             justifyContent: center
             margin:
               - mt-4
+              - ml-4
       - type: FeaturedItem
         title: Cotton Knit Throws
         subtitle: $ 44.99 – $ 90
