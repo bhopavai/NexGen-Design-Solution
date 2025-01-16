@@ -85,4 +85,22 @@ type: PostLayout
 author: >-
   content/data/ceo-and-founder-of-nexgen-design-solution.-a-passionate-ui/ux-designer-specializing-in-saas-product-design-crafting-intuitive-and-engaging-digital-experiences-with-expertise-in-figma-and-spline..json
 ---
-<https://www.behance.net/gallery/215628793/Video-Editing-Agencys-Landing-Pages-UI-UX-Design>
+We designed a modern, user-friendly landing page for a video editing agency to enhance user experience and increase conversions. The design focused on intuitive navigation, interactive package cards, and a portfolio showcase to build trust and engagement.
+
+Your feedback and support mean the world to me as I continue to grow. Let's collaborate on your next project! Reach out via email at <info@uxaminul.com> or through my website.
+
+Thank you for joining me on this journey!
+
+🔗 Connect with UX Aminul:
+📲 WhatrsApp: <https://wa.link/lq6zys>
+📲 Telegram: <https://t.me/uxaminul>
+📧 Email: [info@uxaminul.com](mailto:haqaamin@gmail.com)
+
+🔗 Online presence:
+🌐 Website: [https://uxaminul.com](https://uxaminul.com/)
+🌐 Behance: <https://lnkd.in/gVu5MhAK>
+📸 Instagram: <https://lnkd.in/gVyAd_SH>
+🐦 Twitter: <https://lnkd.in/gf7pC6wu>
+
+
+➡️ [View Full Case Study](https://www.behance.net/gallery/215628793/Video-Editing-Agencys-Landing-Pages-UI-UX-Design)
