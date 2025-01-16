@@ -2,14 +2,7 @@
 title: 'Portfolio '
 slug: pricing
 sections:
-  - title:
-      text: Flexible Pricing
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+  - subtitle: This is the subtitle for the pricing section
     plans: []
     colors: bg-light-fg-dark
     styles:
