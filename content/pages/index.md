@@ -164,7 +164,7 @@ sections:
               - pb-0
               - pr-0
             textAlign: left
-            borderRadius: none
+            borderRadius: x-small
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
