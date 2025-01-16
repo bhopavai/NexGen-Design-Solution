@@ -1,5 +1,5 @@
 ---
-title: 'Portfolio '
+title: Recant Design
 slug: Recent Design
 sections:
   - type: FeaturedItemsSection
