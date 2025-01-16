@@ -151,7 +151,7 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
-    hoverEffect: thin-underline
+    hoverEffect: shadow-plus-move-up
     styles:
       self:
         justifyContent: center
