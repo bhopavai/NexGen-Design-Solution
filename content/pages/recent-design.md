@@ -1,6 +1,6 @@
 ---
 title: Recant Design
-slug: Recent Design
+slug: Recent-Design
 sections:
   - type: FeaturedItemsSection
     title:
