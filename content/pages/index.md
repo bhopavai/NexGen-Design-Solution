@@ -94,56 +94,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: >-
-        How NexGen Design Solution Transforms Ideas into Seamless SaaS
-        Experiences
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      Watch our video to see how we craft intuitive **SaaS product** designs
-      that drive engagement and business success. Explore our proven process,
-      user-focused strategies, and cutting-edge tools like Figma and Spline in
-      action.
-    media:
-      title: SaaS Website UI/UX Design
-      url: 'https://vimeo.com/456147878?signup=true'
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Discover the Power of SaaS Design
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -239,6 +189,56 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: >-
+        How NexGen Design Solution Transforms Ideas into Seamless SaaS
+        Experiences
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      Watch our video to see how we craft intuitive **SaaS product** designs
+      that drive engagement and business success. Explore our proven process,
+      user-focused strategies, and cutting-edge tools like Figma and Spline in
+      action.
+    media:
+      title: SaaS Website UI/UX Design
+      url: 'https://vimeo.com/456147878?signup=true'
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+      autoplay: true
+      loop: true
+      muted: true
+    badge:
+      label: Discover the Power of SaaS Design
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - title:
       text: Aminul Islam – CEO & Founder of NexGen Design Solution
       color: text-dark
