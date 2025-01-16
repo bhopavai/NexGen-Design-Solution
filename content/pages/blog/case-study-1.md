@@ -79,7 +79,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: x-large
     flexDirection: col
 type: PostLayout
 author: >-
