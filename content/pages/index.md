@@ -134,27 +134,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Recent posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    hoverEffect: shadow-plus-move-up
-    styles:
-      self:
-        justifyContent: center
   - title:
       text: Aminul Islam – CEO & Founder of NexGen Design Solution
       color: text-dark
