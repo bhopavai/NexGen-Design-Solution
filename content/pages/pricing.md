@@ -2,15 +2,6 @@
 title: 'Portfolio '
 slug: pricing
 sections:
-  - subtitle: This is the subtitle for the pricing section
-    plans: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: PricingSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
